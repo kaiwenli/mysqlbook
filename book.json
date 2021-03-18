@@ -1,0 +1,32 @@
+{
+    "plugins":["navigation","highlight"],
+    "pluginsConfig":{
+        "navigation":{
+            "logo":{
+                "image":"http://www.phpxy.com/front/images/logo.png",
+                "url":"http://www.phpxy.com"
+            },
+            "nav":[
+                {
+                    "title":"PHP学院",
+                    "url":"http://www.phpxy.com"
+                },
+                {
+                    "title":"免费视频",
+                    "url":"http://www.phpxy.com/courses.html"
+                },
+
+                 {
+                    "title":"PHP教程",
+                    "url":"http://phpbook.phpxy.com/"
+                },
+                {
+                    "title":"MySQL教程",
+                    "url":"http://mysql.phpxy.com/"
+                },
+
+
+            ]
+        }
+    }
+}
